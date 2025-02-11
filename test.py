@@ -3,8 +3,8 @@ import requests
 import time
 
 # API Endpoints
-API_URL = "http://127.0.0.1:8000/store-url/"  # Change this if hosted on another server
-DOWNLOAD_URL = "http://127.0.0.1:8000/download-file/"
+API_URL = "http://2405:201:1001:4020:fa60:a36a:f3e3:6aea/store-url/"  # Change this if hosted on another server
+DOWNLOAD_URL = "http://2405:201:1001:4020:fa60:a36a:f3e3:6aea/download-file/"
 
 st.title("FastAPI URL Submission & File Download")
 
